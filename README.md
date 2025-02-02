@@ -1,2 +1,2 @@
 # restaurant-voting
-Сервис для проведения голосования за выбор ресторана с +(только бэкенд)
+This app allows to a voting system for deciding where to have lunch. Includes client and admin sides. Backend only.
